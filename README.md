@@ -18,8 +18,8 @@
 <h3>Project Directory after successful installation(Virtual environment name = env):</h3>        
 <br><img src="Repository_extra/Post Installation.JPG">
 
-6. Run <code>train_models.py<code> to train and initialise the models.
-    <code>python train_models.py</code>
+6. Run <code> train_models.py </code> to train and initialise the models.<br>
+    <code> python train_models.py </code>
    
 7. Edit app.py as required
   
