@@ -21,7 +21,7 @@
 6. Run <code>train_models.py<code> to train and initialise the models.
     <code>python train_models.py</code>
    
-8. Edit app.py as required
+7. Edit app.py as required
   
-9. Run the streamlit webserver using the commmand:<br>
+8. Run the streamlit webserver using the commmand:<br>
     <code>streamlit run app.py</code>
