@@ -17,8 +17,11 @@
     <code> pip install <module> </code> 
 <h3>Project Directory after successful installation(Virtual environment name = env):</h3>        
 <br><img src="Repository_extra/Post Installation.JPG">
-        
-5. Edit app.py as required
+
+6. Run <code>train_models.py<code> to train and initialise the models.
+    <code>python train_models.py</code>
+   
+8. Edit app.py as required
   
-6. Run the streamlit webserver using the commmand:<br>
+9. Run the streamlit webserver using the commmand:<br>
     <code>streamlit run app.py</code>
