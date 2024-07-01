@@ -16,7 +16,7 @@
 5. Manually install other missing packages using pip command:<br>
     <code> pip install <module> </code> 
 <h3>Project Directory after successful installation(Virtual environment name = env):</h3>        
-<br><img src="Repository_extra/Post Installation.JPG">
+<br><img src="Repository_extra/Post Installation.JPG.png">
 
 6. Run <code> train_models.py </code> to train and initialise the models.<br>
     <code> python train_models.py </code>
